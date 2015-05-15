@@ -1,0 +1,7 @@
+This is a project based on the 8051lib. 
+A simple hardware simulation using Proteus software.
+TCP/IP communication stack using uip, Ethernet function implemented using Enc28j60.
+
+In src/apps/
+webserver is a small webserver controlling LEDs via webpages;
+udp_app also controls LEDs but using UDP.
