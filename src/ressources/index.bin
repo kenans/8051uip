@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+<h1>LED Control</h1>
+<a href="?led=on">On</a>
+<a href="?led=off">Off</a>
+</body>
+</html>
+
+

@@ -1,0 +1,8 @@
+*~
+!.gitignore
+build/
+resource/
+!src/
+simulation/*
+!simulation/*DSN
+
